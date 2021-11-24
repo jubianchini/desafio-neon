@@ -1,0 +1,12 @@
+source "http://rubygems.org"
+
+gem "cucumber"
+gem "rspec"
+gem "faker"
+gem "cpf_cnpj"
+gem "appium_capybara"
+gem "appium_lib"
+gem "pry"
+gem "selenium-webdriver"
+gem "webdrivers"
+gem "ruby-oci8"

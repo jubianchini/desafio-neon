@@ -1,0 +1,1 @@
+default: --no-source --color --format pretty --format html --out=reports/relatorio.html --format html --out=C:/report_automacao/relatorio_<%=DateTime.now.strftime("%d_%m_%Y-%H_%M")%>.html --publish-quiet
